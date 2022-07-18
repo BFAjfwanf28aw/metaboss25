@@ -1,33 +1,29 @@
 {
-  "name": "NextGen Degen1453",
-  "symbol": "NGDG",
+  "name": "Gothic Degen #573",
+  "symbol": "GD",
   "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
   "seller_fee_basis_points": 200,
-  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://dweb.link/ipfs/QmQKmhNQqGhEb9Gm9GxRty8GCm8YUiaCBFWw7PMwJdcWFD/506.png",
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://testlaunchmynft.mypinata.cloud/ipfs/Qme5Y77N9XdmTy6kY5YQAQ4vz29bVA2WdcoR26bkpGk9kJ/165.png",
   "attributes": [
    {
       "trait_type": "Background",
-      "value": "Laser"
+      "value": "Deja Vu"
     },
     {
-      "trait_type": "Back",
-      "value": "Peacock"
+      "trait_type": "Covenant",
+      "value": "Owls"
     },
     {
-      "trait_type": "Weapon",
-      "value": "Motion Detector"
+      "trait_type": "Skin",
+      "value": "Knight"
     },
     {
-      "trait_type": "Suit",
-      "value": "Showcase"
+      "trait_type": "Face",
+      "value": "Red Skull"
     },
     {
-      "trait_type": "Energy",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Samurai"
+      "trait_type": "Crown",
+      "value": "Crown Of Red Flower"
     }
   ],
   "properties": {
