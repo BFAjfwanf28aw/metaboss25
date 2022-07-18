@@ -1,29 +1,37 @@
 {
-  "name": "Gothic Degen #573",
-  "symbol": "GD",
+  "name": "Trippy Skeletons #1041",
+  "symbol": "TRIP",
   "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
   "seller_fee_basis_points": 200,
-  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://testlaunchmynft.mypinata.cloud/ipfs/Qme5Y77N9XdmTy6kY5YQAQ4vz29bVA2WdcoR26bkpGk9kJ/165.png",
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://dweb.link/ipfs/QmPS5zYVeVe17HbxLq8k34So5uu2kPWfMKbGKEH5MzwxR5/49.png",
   "attributes": [
    {
-      "trait_type": "Background",
-      "value": "Deja Vu"
+      "trait_type": "1. Background",
+      "value": "Pink"
     },
     {
-      "trait_type": "Covenant",
-      "value": "Owls"
+      "trait_type": "2. Body",
+      "value": "Cyan variation"
     },
     {
-      "trait_type": "Skin",
-      "value": "Knight"
+      "trait_type": "3. Body wear",
+      "value": "Horns"
     },
     {
-      "trait_type": "Face",
-      "value": "Red Skull"
+      "trait_type": "4. Mouth",
+      "value": "Eye balls"
     },
     {
-      "trait_type": "Crown",
-      "value": "Crown Of Red Flower"
+      "trait_type": "5. Head",
+      "value": "Pink brain"
+    },
+    {
+      "trait_type": "6. Headwear",
+      "value": "Flying eyes"
+    },
+    {
+      "trait_type": "7. Eyes",
+      "value": "Green diamonds"
     }
   ],
   "properties": {
